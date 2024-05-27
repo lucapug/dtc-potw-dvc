@@ -26,27 +26,26 @@ include model registry) [free version with restrictions]
 
 ##### data versioning and making the choice of the version
 
-
 commands involved:
 
 (version stored in cache)
-dvc add
+`dvc add`
 
 (keep track on github)
-git add/commit/push
+`git add/commit/push`
 
 (modify data file, add new version to dvc)
-dvc add
+`dvc add`
 
 (keep track on github)
-git add/commit/push
+`git add/commit/push`
 
 (find commit of old version)
-git log
-git checkout commitID
+`git log` then
+`git checkout commitID`
 
 (align dvc with git)
-dvc checkout
+`dvc checkout`
 
 <br>
 <br>
