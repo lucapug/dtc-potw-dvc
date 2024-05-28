@@ -6,7 +6,7 @@ reference (extended tutorial): [AntonisCSt/POW_DVC: Data Version Control Tutoria
 
 iterative inc , two websites (dvc.org and dvc.ai)
 
-#### DVC ecosystem of tools \(see in \[docs\]\(docs/DVC ecosystem\.md\)\)
+#### DVC ecosystem of tools (see in [docs](https://github.com/lucapug/dtc-potw-dvc/blob/main/docs/DVC%20ecosystem.md))
 
 ### making the choice of the data version
 
