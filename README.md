@@ -4,8 +4,6 @@ DTC project of the week - DVC - may 2024
 
 reference tutorial [here](https://github.com/AntonisCSt/POW_DVC/tree/main)
 
-iterative inc , two websites (dvc.org and dvc.ai)
-
 #### DVC ecosystem of tools (see in [docs](https://github.com/lucapug/dtc-potw-dvc/blob/main/docs/DVC%20ecosystem.md))
 
 ### making the choice of the data version

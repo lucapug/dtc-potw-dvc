@@ -1,5 +1,7 @@
 ## DVC ecosystem of tools
 
+Iterative inc , two websites (dvc.org and dvc.ai)
+
 DVC's products are modular, so you can pick-and-choose which to use or continue using your existing tools.
 
 open source tools, each one has its own Github repo:
